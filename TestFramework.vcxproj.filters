@@ -20,16 +20,19 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="benchmark_tests.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="benchmark_tests.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="example_tests.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="failure_tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mixed_tests.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

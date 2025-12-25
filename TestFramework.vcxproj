@@ -134,6 +134,7 @@
     <ClCompile Include="example_tests.cpp" />
     <ClCompile Include="failure_tests.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="mixed_tests.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
